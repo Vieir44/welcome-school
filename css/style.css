@@ -1,13 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap&#39');
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color:#fff;
+    color:#FFFDFB;
     text-decoration: none;
     list-style: none;
     font-family: "Boogaloo", sans-serif;
 }
-
 body{
     background-color: #67449E;
 }
